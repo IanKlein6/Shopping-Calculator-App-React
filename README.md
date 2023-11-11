@@ -1,4 +1,4 @@
 # Shopping React App 
 
-App where the user can add shopping expenses to the app and calculate totals
+App where the user are able to add shopping expenses and calculate totals.
 
